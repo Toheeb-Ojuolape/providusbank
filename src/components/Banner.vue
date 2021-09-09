@@ -70,6 +70,7 @@
               color="#fdb913"
               class="hoverEffect"
               style="float:right"
+              href="http://swiftend-providusbank.herokuapp.com/"
             >
               Sign in
             </v-btn>
@@ -95,13 +96,11 @@
               class="hidden-md-and-down"
               style="text-align:start;z-index:10;color:#374b54;margin-top:150px;margin-bottom:10px;font-size:48px"
             >
-              Banking As a Service
+             A New Approach to
+            <div style="color:#fdb913">Card Issuance.</div>
             </h1>
             <p style="width:50%;text-align:start;z-index:10;color:#374b54;font-size:22px">
-              Our vision is to collaboratively provide the underlying banking
-              services infrastructure to fintechs and innovators in order to
-              deliver best in class user experiences and target the next
-              generation bank customers.
+              Welcome to the card issuer processor platform that enables you to build the solution that meets your exact customer needs – fast.
             </p>
             <v-btn
               height="59px"
@@ -131,13 +130,11 @@
           class="text-center font-weight-bold"
           style="color:#374b54;margin-bottom:30px;font-size:35px"
         >
-          Banking As A Service
+          A New Approach to
+            <a style="color:#fdb913">Card Issuance.</a>
         </h1>
         <p class="text-center" style="margin:auto;color:#374b54;font-size:16px">
-         Our vision is to collaboratively provide the underlying banking
-              services infrastructure to fintechs and innovators in order to
-              deliver best in class user experiences and target the next
-              generation bank customers.
+         Welcome to the card issuer processor platform that enables you to build the solution that meets your exact customer needs – fast.
         </p>
       </div>
 

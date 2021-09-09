@@ -1,6 +1,6 @@
 <template>
   <v-main>
-    <v-card tile height="480px" style="text-align:start" color="#374b54" flat>
+    <v-card tile height="480px" style="margin-top:40px;text-align:start" color="#374b54" flat>
       <!--Laptop-->
       <v-container class="hidden-md-and-down pa-6">
         <v-row>
