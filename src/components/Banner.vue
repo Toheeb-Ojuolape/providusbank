@@ -174,7 +174,7 @@
       <v-list nav dense>
         <v-list-item-group
           v-model="group"
-          active-class="deep-purple--text text--accent-4"
+          active-class="deep-orange--text text--accent-4"
         >
           <v-list-item to="/" active-class="active">
             <v-list-item-title>
@@ -184,7 +184,7 @@
             </v-list-item-title>
           </v-list-item>
 
-          <v-list-item href="/#about">
+          <v-list-item href="#features">
             <v-list-item-title>Features</v-list-item-title>
           </v-list-item>
 
