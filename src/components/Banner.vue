@@ -88,18 +88,18 @@
     </v-container>
 
     <!--Laptop-->
-    <v-card class="hidden-md-and-down createAccount" height="700px" flat tile>
+    <v-card class="hidden-md-and-down createAccount" color="black" height="700px" flat tile>
       <v-row>
         <v-col style="width:60%">
           <div style="margin:30px 70px 50px 70px">
             <h1
               class="hidden-md-and-down"
-              style="text-align:start;z-index:10;color:#374b54;margin-top:150px;margin-bottom:10px;font-size:48px"
+              style="text-align:start;z-index:10;color:white;margin-top:150px;margin-bottom:10px;font-size:48px"
             >
              A New Approach to
             <div style="color:#fdb913">Card Issuance.</div>
             </h1>
-            <p style="width:50%;text-align:start;z-index:10;color:#374b54;font-size:22px">
+            <p style="width:50%;text-align:start;z-index:10;color:white;font-size:22px">
               Welcome to the card issuer processor platform that enables you to build the solution that meets your exact customer needs – fast.
             </p>
             <v-btn
@@ -107,10 +107,10 @@
               width="270px"
               x-large 
               color="#fdb913"
-              class="black--text mt-2 font-weight-bold"
+              class="white--text mt-2 font-weight-bold"
               href="http://swiftend-providusbank.herokuapp.com/"
               style="float:left;border-radius:15px"
-              >Start Here <v-icon>mdi-chevron-right</v-icon></v-btn
+              >Start Here <v-icon color="white">mdi-chevron-right</v-icon></v-btn
             >
           </div>
         </v-col>
@@ -124,16 +124,17 @@
       height="700px"
       flat
       tile
+      color="black"
     >
       <div style="padding:80px 40px 50px 40px">
         <h1
           class="text-center font-weight-bold"
-          style="color:#374b54;margin-bottom:30px;font-size:35px"
+          style="color:white;margin-bottom:30px;font-size:35px"
         >
           A New Approach to
             <a style="color:#fdb913">Card Issuance.</a>
         </h1>
-        <p class="text-center" style="margin:auto;color:#374b54;font-size:16px">
+        <p class="text-center" style="margin:auto;color:white;font-size:16px">
          Welcome to the card issuer processor platform that enables you to build the solution that meets your exact customer needs – fast.
         </p>
       </div>
@@ -146,14 +147,14 @@
           x-large
          href="http://swiftend-providusbank.herokuapp.com/"
           style="border-radius:15px"
-          class="hidden-lg-and-up text-center"
-          >Start Here <v-icon>mdi-chevron-right</v-icon></v-btn
+          class="white--text hidden-lg-and-up text-center"
+          >Start Here <v-icon color="white">mdi-chevron-right</v-icon></v-btn
         >
       </p>
     </v-card>
 
 
-    <v-card color="#374b54" class="pa-12 text-center" flat tile>
+    <v-card color="#2e3442" class="pa-12 text-center" flat tile>
     <div style="padding:30px 0px 30px 0px">
     <h1 style="color:white;font-size:43px" class="font-weight-bold"> All the APIs You need</h1>
     <p style="margin-top:8px;color:white">Are you a fintech, developer or even an incumbent trying to do something new and novel? <br>We want to collaborate with you, not compete.</p>
@@ -224,7 +225,7 @@ export default {
 }
 
 .createAccount {
-  background-image: url("../assets/globe.png");
+  background-image: url("../assets/providus.jpg");
   background-position: center;
   background-size: cover;
 }

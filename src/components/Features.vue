@@ -7,17 +7,23 @@
           <v-img src="../assets/Wallet-cuate.svg" />
         </v-col>
         <v-col style="text-align:start" class="pa-15">
-          <h1 style="margin-top:100px">
-            Save your costs. Don’t rebuild what exists already.
+          <h1 style="margin-top:100px;margin-bottom:20px">
+            Generate Physical Cards for your Business Needs
           </h1>
           <p>
-            Whether you are looking for wallet infrastructure, or core banking
-            infrastructure to hold, manage and process deposits, with our APIs,
-            we turn banking to a service for you. That way, you can focus on
-            running your business. * Terms and Conditions apply.
+            With Swiftend, you can create fully-branded physical or virtual
+            cards. Virtual cards can be issued instantly, saving the cost of
+            production and shipping, as well as cutting the time to market.
           </p>
 
-          <v-btn href="https://swiftend.stoplight.io/docs/public-api/YXBpOjIwNDYxMzc4-swiftend-api" x-large rounded outlined class="hoverEffect" color="#ff9d00">
+          <v-btn
+            href="https://swiftend.stoplight.io/docs/public-api/YXBpOjIwNDYxMzc4-swiftend-api"
+            x-large
+            rounded
+            outlined
+            class="hoverEffect"
+            color="#ff9d00"
+          >
             Get Started</v-btn
           >
         </v-col>
@@ -36,7 +42,14 @@
             determine how your transaction is processed.
           </p>
 
-          <v-btn href="https://swiftend.stoplight.io/docs/public-api/YXBpOjIwNDYxMzc4-swiftend-api" x-large rounded outlined class="hoverEffect" color="#ff9d00">
+          <v-btn
+            href="https://swiftend.stoplight.io/docs/public-api/YXBpOjIwNDYxMzc4-swiftend-api"
+            x-large
+            rounded
+            outlined
+            class="hoverEffect"
+            color="#ff9d00"
+          >
             Get Started</v-btn
           >
         </v-col>
@@ -59,7 +72,14 @@
             commission for every transaction.
           </p>
 
-          <v-btn href="https://swiftend.stoplight.io/docs/public-api/YXBpOjIwNDYxMzc4-swiftend-api" x-large rounded outlined class="hoverEffect" color="#ff9d00">
+          <v-btn
+            href="https://swiftend.stoplight.io/docs/public-api/YXBpOjIwNDYxMzc4-swiftend-api"
+            x-large
+            rounded
+            outlined
+            class="hoverEffect"
+            color="#ff9d00"
+          >
             Get Started</v-btn
           >
         </v-col>
@@ -74,23 +94,29 @@
         </v-col>
         <v-col style="text-align:center" class="px-7">
           <h1>
-            Save your costs. Don’t rebuild what exists already.
+            Generate Physical Cards for your Business Needs
           </h1>
           <p style="padding-top:10px">
-            Whether you are looking for wallet infrastructure, or core banking
-            infrastructure to hold, manage and process deposits, with our APIs,
-            we turn banking to a service for you. That way, you can focus on
-            running your business. * Terms and Conditions apply.
+            With Swiftend, you can create fully-branded physical or virtual
+            cards. Virtual cards can be issued instantly, saving the cost of
+            production and shipping, as well as cutting the time to market.
           </p>
 
-          <v-btn href="https://swiftend.stoplight.io/docs/public-api/YXBpOjIwNDYxMzc4-swiftend-api" x-large rounded outlined class="hoverEffect" color="#ff9d00">
+          <v-btn
+            href="https://swiftend.stoplight.io/docs/public-api/YXBpOjIwNDYxMzc4-swiftend-api"
+            x-large
+            rounded
+            outlined
+            class="hoverEffect"
+            color="#ff9d00"
+          >
             Get Started</v-btn
           >
         </v-col>
       </v-row>
 
       <v-row>
-       <v-col>
+        <v-col>
           <v-img src="../assets/Online world-cuate (1).svg" />
         </v-col>
         <v-col style="text-align:center" class="px-7">
@@ -105,7 +131,14 @@
             determine how your transaction is processed.
           </p>
 
-          <v-btn href="https://swiftend.stoplight.io/docs/public-api/YXBpOjIwNDYxMzc4-swiftend-api" x-large rounded outlined class="hoverEffect" color="#ff9d00">
+          <v-btn
+            href="https://swiftend.stoplight.io/docs/public-api/YXBpOjIwNDYxMzc4-swiftend-api"
+            x-large
+            rounded
+            outlined
+            class="hoverEffect"
+            color="#ff9d00"
+          >
             Get Started</v-btn
           >
         </v-col>
@@ -125,7 +158,14 @@
             commission for every transaction.
           </p>
 
-          <v-btn href="https://swiftend.stoplight.io/docs/public-api/YXBpOjIwNDYxMzc4-swiftend-api" x-large rounded outlined class="hoverEffect" color="#ff9d00">
+          <v-btn
+            href="https://swiftend.stoplight.io/docs/public-api/YXBpOjIwNDYxMzc4-swiftend-api"
+            x-large
+            rounded
+            outlined
+            class="hoverEffect"
+            color="#ff9d00"
+          >
             Get Started</v-btn
           >
         </v-col>

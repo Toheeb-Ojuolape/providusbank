@@ -1,6 +1,6 @@
 <template>
   <v-main>
-    <v-card tile height="480px" style="margin-top:40px;text-align:start" color="#374b54" flat>
+    <v-card tile height="480px" style="margin-top:40px;text-align:start" color="#2e3442" flat>
       <!--Laptop-->
       <v-container class="hidden-md-and-down pa-6">
         <v-row>
@@ -60,16 +60,16 @@
             </div>
             <div style="margin-top:30px">
               <v-btn x-small class="mr-2" color="#ff9d00" href="https://www.instagram.com/providusbankig" depressed fab
-                ><v-icon color="#374b54">mdi-instagram</v-icon></v-btn
+                ><v-icon color="#2e3442">mdi-instagram</v-icon></v-btn
               >
               <v-btn x-small class="mr-2" color="#ff9d00" href="https://web.facebook.com/ProvidusBank" depressed fab
-                ><v-icon color="#374b54">mdi-facebook</v-icon></v-btn
+                ><v-icon color="#2e3442">mdi-facebook</v-icon></v-btn
               >
               <v-btn color="#ff9d00" href="https://twitter.com/providusbank" x-small class="mr-2" depressed fab
-                ><v-icon color="#374b54">mdi-twitter</v-icon></v-btn
+                ><v-icon color="#2e3442">mdi-twitter</v-icon></v-btn
               >
               <v-btn color="#ff9d00" href="https://www.linkedin.com/company/providusbank/" x-small depressed fab
-                ><v-icon color="#374b54">mdi-linkedin</v-icon></v-btn
+                ><v-icon color="#2e3442">mdi-linkedin</v-icon></v-btn
               >
             </div>
           </v-col>
